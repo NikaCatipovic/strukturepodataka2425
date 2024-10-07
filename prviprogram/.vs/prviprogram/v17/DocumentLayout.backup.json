@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\prviprogram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04F9B3AC-F1FC-4D22-A140-7941EF4DEC47}|prviprogram\\prviprogram.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\prviprogram\\prviprogram\\prviprogram.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F9B3AC-F1FC-4D22-A140-7941EF4DEC47}|prviprogram\\prviprogram.vcxproj|solutionrelative:prviprogram\\prviprogram.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prviprogram.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\prviprogram\\prviprogram\\prviprogram.c",
+              "RelativeDocumentMoniker": "prviprogram\\prviprogram.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\prviprogram\\prviprogram\\prviprogram.c",
+              "RelativeToolTip": "prviprogram\\prviprogram.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T16:01:09.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
