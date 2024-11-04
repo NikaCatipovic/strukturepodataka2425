@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B155EE9E-FF06-4733-9E96-1AD91562646A}|zad2i3.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad2i3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B155EE9E-FF06-4733-9E96-1AD91562646A}|zad2i3.vcxproj|solutionrelative:zad2i3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B155EE9E-FF06-4733-9E96-1AD91562646A}|zad2i3.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B155EE9E-FF06-4733-9E96-1AD91562646A}|zad2i3.vcxproj|solutionrelative:zad3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B155EE9E-FF06-4733-9E96-1AD91562646A}|zad2i3.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B155EE9E-FF06-4733-9E96-1AD91562646A}|zad2i3.vcxproj|solutionrelative:zad2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zad3.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad3.txt",
+              "RelativeDocumentMoniker": "zad3.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad3.txt",
+              "RelativeToolTip": "zad3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-04T14:53:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "zad2.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad2.txt",
+              "RelativeDocumentMoniker": "zad2.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad2.txt",
+              "RelativeToolTip": "zad2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-04T13:17:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad2i3.cpp",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad2i3.cpp",
+              "RelativeDocumentMoniker": "zad2i3.cpp",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad2i3\\zad2i3.cpp",
+              "RelativeToolTip": "zad2i3.cpp",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAIwMMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T13:14:36.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

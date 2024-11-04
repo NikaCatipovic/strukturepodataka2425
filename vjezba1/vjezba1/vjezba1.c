@@ -5,7 +5,7 @@
 #define MAX (1024)
 #define MAX_BODOVI (100)
 
-int ReadRows(const char* fileName);
+
 
 typedef struct {
 	char ime[50];
@@ -14,13 +14,10 @@ typedef struct {
 
 } Student;
 
+int ReadRows(const char* fileName);
 Student* AllocateStudents(int numberOfStudents);
-
-void PrintStudents(int numberOfStudents, Student* students);
-
+int PrintStudents(int numberOfRows, Student* students);
 double relbod(double bodovi);
-
-
 
 
 int main() {
@@ -33,7 +30,7 @@ int main() {
 
 	if (numberOfRows > 0) {
 		students = AllocateStudents(numberOfRows);
-		PrintStudents(numberOfStudents, students);
+		PrintStudents(numberOfRows, students);
 		
 		free(students);
 	}
@@ -64,7 +61,7 @@ int ReadRows(const char* fileName)
 	return numberOfRow;
 }
 
-Student* AllocateStudents(int numberOfStudents); {
+Student* AllocateStudents(int numberOfStudents) {
 
 
 	int counter = 0;
@@ -83,8 +80,8 @@ Student* AllocateStudents(int numberOfStudents); {
 		return NULL;
 	}
 	while (!feof(fp)) {
-		fscanf(fp, "%s %s %lf", students[numberOfRows].ime, students[numberOfRows].prezime, &studnets[numberOfRows].bodovi);
-		numberOfRows++;
+		fscanf(fp, "%s %s %lf", students[numberOfStudents].ime, students[numberOfStudents].prezime, &students[numberOfStudents].bodovi);
+		numberOfStudents++;
 	}
 	fclose(fp);
 
@@ -99,14 +96,15 @@ double relbod(double bodovi)
 }
 
 
-int PrintStudents(int numberOfStudents, Student* students)
+int PrintStudents(int numberOfRows, Student* students)
 {
-	int numberOfRows = 0;
+	int br = 0;
 
-	for (numberOfRows;  numberOfRows < numberOfStudents; numberOfRows++)
+	for (br; br < numberOfRows; br++)
 	{
-		printf("ime: %s\t prezime: %s\t Apsolutni bodovi: %.2lf\t Relative bodovi: %.2lf%\t\n", students[numberOfRows].ime,
-			students[numberOfRows].prezime, students[numberOfRows].bodovi, relbod(students[numberOfRows].bodovi));
+		printf("ime: %s\t prezime: %s\t Apsolutni bodovi: %.2lf\t Relative bodovi: %.2lf%\t\n", students[br].ime,
+			students[br].prezime, students[br].bodovi, relbod(students[br].bodovi));
 	}
 
 	return 0;
+}

@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB0DE7E5-CBBD-4E53-B113-40780DB63894}|vjezba1\\vjezba1.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\vjezba1\\vjezba1\\vjezba1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB0DE7E5-CBBD-4E53-B113-40780DB63894}|vjezba1\\vjezba1.vcxproj|solutionrelative:vjezba1\\vjezba1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0DE7E5-CBBD-4E53-B113-40780DB63894}|vjezba1\\vjezba1.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\dat.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dat.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\dat.txt",
+              "RelativeDocumentMoniker": "..\\dat.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\dat.txt",
+              "RelativeToolTip": "..\\dat.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-14T20:24:14.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +44,10 @@
               "RelativeDocumentMoniker": "vjezba1\\vjezba1.c",
               "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\vjezba1\\vjezba1\\vjezba1.c",
               "RelativeToolTip": "vjezba1\\vjezba1.c",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-07T16:20:51.477Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
