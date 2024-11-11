@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAC34E4-CA09-4E23-AA5D-67327E51FBDF}|zad4.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad4\\zad4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CAC34E4-CA09-4E23-AA5D-67327E51FBDF}|zad4.vcxproj|solutionrelative:zad4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAC34E4-CA09-4E23-AA5D-67327E51FBDF}|zad4.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad4\\polynomials.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7CAC34E4-CA09-4E23-AA5D-67327E51FBDF}|zad4.vcxproj|solutionrelative:polynomials.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad4.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad4\\zad4.c",
+              "RelativeDocumentMoniker": "zad4.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad4\\zad4.c",
+              "RelativeToolTip": "zad4.c",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-11T10:35:13.414Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "polynomials.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad4\\polynomials.txt",
+              "RelativeDocumentMoniker": "polynomials.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad4\\polynomials.txt",
+              "RelativeToolTip": "polynomials.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-11T10:35:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
