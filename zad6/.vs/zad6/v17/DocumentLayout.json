@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71657598-A5BB-4968-9916-08A2ABF0DC38}|zad6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71657598-A5BB-4968-9916-08A2ABF0DC38}|zad6.vcxproj|solutionrelative:6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71657598-A5BB-4968-9916-08A2ABF0DC38}|zad6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racun2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{71657598-A5BB-4968-9916-08A2ABF0DC38}|zad6.vcxproj|solutionrelative:racun2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71657598-A5BB-4968-9916-08A2ABF0DC38}|zad6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{71657598-A5BB-4968-9916-08A2ABF0DC38}|zad6.vcxproj|solutionrelative:racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71657598-A5BB-4968-9916-08A2ABF0DC38}|zad6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racuni.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{71657598-A5BB-4968-9916-08A2ABF0DC38}|zad6.vcxproj|solutionrelative:racuni.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "racun2.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racun2.txt",
+              "RelativeDocumentMoniker": "racun2.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racun2.txt",
+              "RelativeToolTip": "racun2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T13:07:25.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\6.c",
+              "RelativeDocumentMoniker": "6.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\6.c",
+              "RelativeToolTip": "6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-09T13:01:31.825Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "racun1.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racun1.txt",
+              "RelativeDocumentMoniker": "racun1.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racun1.txt",
+              "RelativeToolTip": "racun1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T13:04:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "racuni.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racuni.txt",
+              "RelativeDocumentMoniker": "racuni.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\racuni.txt",
+              "RelativeToolTip": "racuni.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T13:02:12.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
