@@ -24,7 +24,7 @@ Racun* ucitajRacune();
 Racun* dodajRacunSortirano(Racun* head, Racun* novi);
 Artikl* dodajArtiklSortirano(Artikl* head, Artikl* novi);
 void ispisiRacune(Racun* head);
-void oslobodiRacune(Racun* head);
+void brisiRacune(Racun* head);
 
 int main() {
     Racun* head = ucitajRacune();
@@ -32,7 +32,7 @@ int main() {
     printf("Svi racuni sortirani po datumu:\n");
     ispisiRacune(head);
 
-    oslobodiRacune(head);
+    brisiRacune(head);
     return 0;
 }
 
@@ -142,7 +142,7 @@ void ispisiRacune(Racun* head) {
     }
 }
 
-void oslobodiRacune(Racun* head) {
+void brisiRacune(Racun* head) {
     while (head) {
         Racun* temp = head;
         head = head->next;

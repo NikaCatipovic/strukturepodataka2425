@@ -39,8 +39,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-12-09T13:07:25.426Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -50,7 +49,7 @@
               "RelativeDocumentMoniker": "6.c",
               "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukturepodataka2425\\zad6\\6.c",
               "RelativeToolTip": "6.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-09T13:01:31.825Z",
               "IsPinned": true,
@@ -66,8 +65,7 @@
               "RelativeToolTip": "racun1.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-09T13:04:24.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T13:04:24.31Z"
             },
             {
               "$type": "Document",
@@ -79,12 +77,7 @@
               "RelativeToolTip": "racuni.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-09T13:02:12.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-12-09T13:02:12.219Z"
             }
           ]
         }
