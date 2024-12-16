@@ -3,10 +3,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-
 struct direktorij;
 typedef struct direktorij dir;
 typedef struct direktorij* Node;
