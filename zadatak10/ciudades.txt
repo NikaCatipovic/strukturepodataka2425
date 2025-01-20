@@ -1,0 +1,4 @@
+Madrid 3228000
+Valencia 789000
+Alicante 350000
+Barcelona 1628000

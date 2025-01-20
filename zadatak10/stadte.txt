@@ -1,0 +1,3 @@
+Bec 2000000
+Graz 303000
+Klagenfurt 102000
